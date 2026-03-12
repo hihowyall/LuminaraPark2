@@ -1,0 +1,12 @@
+[8068:14820:0310/143028.958:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8068:14820:0310/143029.594:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9116:2992:0310/143045.015:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1F96AA910A4D467D757DAB1F00BC6814 will be ignored
+[8068:25980:0310/143046.479:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8068:17548:0310/150725.671:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8068:17548:0310/150725.830:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[2804:8780:0310/150725.835:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8068:17548:0310/150726.014:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[2804:6644:0310/150728.224:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
+[2804:6644:0310/150728.224:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 3
+[8068:25980:0310/150737.856:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8068:14820:0310/152959.172:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

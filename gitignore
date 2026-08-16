@@ -86,3 +86,16 @@ Thumbs.db
 *.swo
 *~
 ._*
+
+# Unreal Engine temporary folders
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+/Build/
+/.vs/
+/.idea/
+/*.sln
+
+# OS & Editor generated files
+.DS_Store
+Thumbs.db

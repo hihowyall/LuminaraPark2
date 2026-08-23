@@ -1,12 +1,11 @@
-# Unreal Engine temporary folders
+# Unreal Engine temporary & build folders
+/Binaries/
+Binaries/
+*.patch_*
 /Intermediate/
+Intermediate/
 /Saved/
+Saved/
 /DerivedDataCache/
-/Build/
 /.vs/
-/.idea/
 /*.sln
-
-# OS & Editor generated files
-.DS_Store
-Thumbs.db

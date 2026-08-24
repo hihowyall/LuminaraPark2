@@ -10,5 +10,8 @@ public class LuminaraParkEditorTarget : TargetRules
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V6;
         ExtraModuleNames.AddRange( new string[] { "LuminaraPark" } );
+
+        // Disable adaptive checks during parallel compilation
+        bUseAdaptiveUnityBuild = false;
     }
 }
